@@ -1,1 +1,1 @@
-glslViewer -w 640 -h 360 eyes.frag
+glslViewer -w 360 -h 360 eyes.frag

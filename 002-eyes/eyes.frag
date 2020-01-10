@@ -1,3 +1,6 @@
+// Author: Endy Iskandar Imam (GitHub:EndyPremier)
+// Title: Shaking Eyes
+
 #ifdef GL_ES
 precision mediump float;
 #endif
