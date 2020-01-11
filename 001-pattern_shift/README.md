@@ -6,6 +6,7 @@
 
 This is the first small GLSL scratch work where I created an animated pattern that looks hexagonal.
 
+## How to run:
 ```bash
 $ sh run.sh
 ```

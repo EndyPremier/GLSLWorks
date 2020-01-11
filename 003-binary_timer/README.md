@@ -6,6 +6,7 @@
 
 A second run of a patter with offset timing by position.
 
+## How to run:
 ```bash
 $ sh run.sh
 ```
