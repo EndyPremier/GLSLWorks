@@ -26,3 +26,4 @@ $ sh run.sh
 003. [`binary_timer`](./003-binary_timer) - (Jan 9, 2020) a timer represented in binary.
 004. [`cloudy_glow`](./004-cloudy_glow) - (Jan 10, 2020) a rudimentary glow in cloud.
 005. [`ray_march-v01`](./005-ray_march-v01) - (Jan 14, 2020) a basic implementation of ray-marching.
+006. [`masked_lighting`](./006-masked_lighting) - (Jan 26, 2020) using lighting as a mask for comic shading.
