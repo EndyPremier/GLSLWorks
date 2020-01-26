@@ -25,3 +25,4 @@ $ sh run.sh
 002. [`eyes`](./002-eyes) - (Jan 7, 2020) a simple random shake of eyes. :eyes:
 003. [`binary_timer`](./003-binary_timer) - (Jan 9, 2020) a timer represented in binary.
 004. [`cloudy_glow`](./004-cloudy_glow) - (Jan 10, 2020) a rudimentary glow in cloud.
+005. [`ray_march-v01`](./005-ray_march-v01) - (Jan 14, 2020) a basic implementation of ray-marching.
